@@ -20,4 +20,8 @@
 
 ## Visual descriptions
 ![Building:](https://github.com/buildsci/openstudio_measures/blob/master/individualWindows/1.JPG)
-
+![Image 2:](https://github.com/buildsci/openstudio_measures/blob/master/individualWindows/2.JPG)
+![Image 3:](https://github.com/buildsci/openstudio_measures/blob/master/individualWindows/3.JPG)
+![Image 4:](https://github.com/buildsci/openstudio_measures/blob/master/individualWindows/4.JPG)
+![Image 5:](https://github.com/buildsci/openstudio_measures/blob/master/individualWindows/5.JPG)
+![Image 6:](https://github.com/buildsci/openstudio_measures/blob/master/individualWindows/6.JPG)
