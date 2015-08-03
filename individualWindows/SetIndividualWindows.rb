@@ -152,9 +152,9 @@ class WWRScriptModified < OpenStudio::Ruleset::ModelUserScript
       width = [len_1, len_2, len_3].min
       length = len_1+len_2+len_3 - diagonal - width
 
-      runner.registerAsNotApplicable("what is the diagonal length #{diagonal}")
-      runner.registerAsNotApplicable("what is the width #{width}")
-      runner.registerAsNotApplicable("what is the length #{length}")
+      #runner.registerAsNotApplicable("what is the diagonal length #{diagonal}")
+      #runner.registerAsNotApplicable("what is the width #{width}")
+      #runner.registerAsNotApplicable("what is the length #{length}")
      
 # This portion was slightly modfied from the original run code. In that code 3/2=1 just as ruby should do. However, here we get 3/2=1.5. Therefore, we needed to account for the extra 0.5.
        
