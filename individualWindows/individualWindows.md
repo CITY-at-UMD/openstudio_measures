@@ -1,4 +1,6 @@
 # Documentation for adding individual windows
+
+## Descriptions
  * This file has the documentation for adding windows to the building.
  * First, we get the number of windows a user wants and also the height and width of each window from the user.
  * Then, we check the inputs for any errors, for example, if the combined width of all the windows is equal or exceeding the length/width of the entire surface, then it is an error. Similarly, if height of the window is equal to or larger than the height of the surface, the input is erroneous.
@@ -15,3 +17,7 @@
 * Now, to draw the windows, we check if the surface is aligned with north, east, south or west direction, and then draw the window.
 * This process of setting the center vertex for the window till drawing the window is repeated till we get all the windows on that surface.
 * Similarly, the windows are drawn on other surfaces.
+
+## Visual descriptions
+![Building:](https://github.com/buildsci/openstudio_measures/blob/master/individualWindows/1.JPG)
+
