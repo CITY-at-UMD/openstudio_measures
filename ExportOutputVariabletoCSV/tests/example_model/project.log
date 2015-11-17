@@ -1,0 +1,414 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 002FFA30
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files (x86)/OpenStudio 1.8.3/share/openstudio-1.8.3/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: Z:/Software Tools/BSG OpenStudio Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: Z:/Software Tools/BSG OpenStudio Measures/add_output_variable_2_to_copy
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: Z:/Software Tools/BSG OpenStudio Measures/add_output_variable_2_to_copy
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: Z:/Software Tools/BSG OpenStudio Measures/ExportMetertoCSV
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: Z:/Software Tools/BSG OpenStudio Measures/ExportMetertoCSV
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: Z:/Software Tools/BSG OpenStudio Measures/ExportOutputVariabletoCSV
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: Z:/Software Tools/BSG OpenStudio Measures/ExportOutputVariabletoCSV
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: Z:/Software Tools/BSG OpenStudio Measures/ExportTimeSeriesDatatoCSV
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: Z:/Software Tools/BSG OpenStudio Measures/ExportTimeSeriesDatatoCSV
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/e6642d40-7366-4647-8724-53a37991d579/662dc30c-678c-467d-a6be-15e075a3885b' conflicts with other measure, other measure will be used instead
+[openstudio.MeasureManager] <1> UUID of user measure at 'C:/Users/Matthew Dahlhausen/BCL/fc337100-8634-404e-8966-01243d292a79/c418b65d-aa8d-41c2-98b3-7ae3af82a788' conflicts with other measure, other measure will be used instead
+[openstudio.model.WeatherFile] <-2> Current path 'files/USA_CO_Golden-NREL.724666_TMY3.epw' not complete. After calling system_complete have 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/files/USA_CO_Golden-NREL.724666_TMY3.epw'.
+[openstudio.model.WeatherFile] <-2> Going to look for 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files/USA_CO_Golden-NREL.724666_TMY3.epw'.
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:///C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files/USA_CO_Golden-NREL.724666_TMY3.epw
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 2001-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files/USA_CO_Golden-NREL.724666_TMY3.epw'. Data will be treated as typical (TMY)
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 2 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 19 fields.  Size of vertices is 4.
+[utilities.idd.IddField] <-1> Field 'Zone Heating Design Supply Air Temperature Input Method' of object 'Sizing:Zone' is both required and has default value, setting required = false.
+[utilities.idd.IddField] <-1> Field 'Zone Cooling Design Supply Air Temperature Input Method' of object 'Sizing:Zone' is both required and has default value, setting required = false.
+[utilities.idd.IddField] <-1> Field 'Number of Timesteps per Hour' of object 'Timestep' is both required and has default value, setting required = false.
+[utilities.idd.IddField] <-1> Field 'Central Heating Design Supply Air Humidity Ratio' of object 'Sizing:System' is both required and has default value, setting required = false.
+[utilities.idd.IddField] <-1> Field 'Central Cooling Design Supply Air Humidity Ratio' of object 'Sizing:System' is both required and has default value, setting required = false.
+[utilities.idd.IddField] <-1> Field 'Central Heating Maximum System Air Flow Ratio' of object 'Sizing:System' is both required and has default value, setting required = false.
+[utilities.idd.IddField] <-1> Field 'Column Separator' of object 'OutputControl:Table:Style' is both required and has default value, setting required = false.
+[openstudio.completePathToFile] <-1> Path 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportMetertoCSV/tests/*.osm' could not be resolved to an existing file. Returning an empty path.
+[openstudio.completePathToFile] <-1> Path 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportMetertoCSV/tests/*.osm' could not be resolved to an existing file. Returning an empty path.
+[openstudio.MeasureManager] <-1> Loaded 2 arguments for measure AddMeter({ad4015f2-6d1d-4bb2-84b1-db47bc67a5b2} version: {52843e66-35be-4ffa-9f3d-ea24fe0a250e})
+[openstudio.MeasureManager] <-2> Measure hasn't changed, but args were reloaded, forcing argument resetting
+[openstudio.completePathToFile] <-1> Path 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportMetertoCSV/tests/*.osm' could not be resolved to an existing file. Returning an empty path.
+[openstudio.completePathToFile] <-1> Path 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportMetertoCSV/tests/*.osm' could not be resolved to an existing file. Returning an empty path.
+[openstudio.MeasureManager] <-1> Loaded 2 arguments for measure AddOutputVariable({2a058afb-e349-49ae-a4bf-2c56a42b4352} version: {acf24c6d-64cc-4f27-a18a-2a92f1e9a647})
+[openstudio.MeasureManager] <-2> Measure hasn't changed, but args were reloaded, forcing argument resetting
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 063116B0
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {a7f557b8-fbef-470f-8e74-8cff431f3e13} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {db0074d9-d55c-41fa-b866-1b025ee13aea} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {2b06cfef-cb62-4475-93b2-e89d00d1ffb2} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {99673271-54f7-45fa-aafd-300272a70d76} 0
+[openstudio.runmanager.RunManager] <-2> WorkflowFound {85f4dd7c-aac9-43b3-9fa3-68504c1a2739} with uuid {2fd9b8ec-b9f3-457b-a9bc-f68b782825bc} deleting
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run.db) Persisting job status for {4fcd4dc1-22b4-480f-8dcf-dc933ceea639}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {4fcd4dc1-22b4-480f-8dcf-dc933ceea639}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {4fcd4dc1-22b4-480f-8dcf-dc933ceea639}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run.db) Persisting job status for {9c68e755-b4dd-4758-b008-7fb3245db8f7}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9c68e755-b4dd-4758-b008-7fb3245db8f7}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {9c68e755-b4dd-4758-b008-7fb3245db8f7}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run.db) Persisting job status for {f8389ab3-a814-4c47-bd6b-7d8fd522164d}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {f8389ab3-a814-4c47-bd6b-7d8fd522164d}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {f8389ab3-a814-4c47-bd6b-7d8fd522164d}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run.db) Persisting job status for {8d8aaa25-2a2a-4391-bf7d-7e9e50857193}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {8d8aaa25-2a2a-4391-bf7d-7e9e50857193}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {8d8aaa25-2a2a-4391-bf7d-7e9e50857193}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run.db) Persisting job status for {d8a00389-e5ff-4c3c-a5ab-434d8dd99d65}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {d8a00389-e5ff-4c3c-a5ab-434d8dd99d65}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {d8a00389-e5ff-4c3c-a5ab-434d8dd99d65}
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources to C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/run' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/files' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/run' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests'
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources to C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/run' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/701058e0-bfb1-4964-b5fe-be483dc474de/tests'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/scripts/77e9e6fc-d7e0-4768-9542-509c9b1ed665/tests'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/files' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/files' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0' to 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Matthew Dahlhausen/Documents/GitHub/openstudio_measures/ExportOutputVariabletoCSV/tests/example_model/ModelToIdf/EnergyPlus-0' with source 'C:/Users/Matthew Dahlhausen/AppData/Local/Temp/OpenStudio.wx6672/resources/ModelToIdf/EnergyPlus-0'
