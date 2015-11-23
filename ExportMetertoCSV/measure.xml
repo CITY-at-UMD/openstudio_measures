@@ -1,6 +1,6 @@
 <measure>
   <schema_version>3.0</schema_version>
-  <name>export_meterto_csv</name>
+  <name>ExportMetertoCSV</name>
   <uid>0d08ca00-7dea-436d-843a-a48a483cbf7c</uid>
   <version_id>e79d05a5-24fd-423d-86c8-6c729adc9790</version_id>
   <xml_checksum>58A298CD</xml_checksum>

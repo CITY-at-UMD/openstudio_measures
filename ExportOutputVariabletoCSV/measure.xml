@@ -1,6 +1,6 @@
 <measure>
   <schema_version>3.0</schema_version>
-  <name>export_output_variableto_csv</name>
+  <name>ExportOutputVariabletoCSV</name>
   <uid>6fdecd71-cee1-40b2-9b38-b92f4073f023</uid>
   <version_id>bab091d2-14a5-41a1-9517-cd1adc268d50</version_id>
   <xml_checksum>58A298CD</xml_checksum>
